@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+server/taskboard.db
+server/taskboard.db-*
+.DS_Store
